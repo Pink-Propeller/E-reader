@@ -58,7 +58,7 @@ Button: one pin to **GPIO 3**, other pin to **GND** (use diagonal corners of the
 **To upload a book:**
 1. From the main menu, select **Download Books**
 2. On your phone or laptop, connect to WiFi: `Pink-Propeller EB` / password `readbooks`
-3. Open your browser and go to `http://192.168.4.1`
+3. Open your browser and go to the URL displayed on the e-ink screen
 4. Upload any `.txt` file
 5. Long press to go back when done — WiFi turns off automatically
 
